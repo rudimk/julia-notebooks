@@ -1,0 +1,6 @@
+Tasks
+1. Write a function that calls the pplapi(More details here) to get a random agent, and prints its response.
+
+2 Next, create a function that uses the batch URL to get a list of 5 random agents from a particular country - the country will be provided as a function argument. The function should ideally return a DataFrame with the random agent details.
+
+3. Finally, write a function that uses the batch URL to getr a list of 50 agents from any country, and then loop through all those agents, to print each agent's country.
